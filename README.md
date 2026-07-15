@@ -16,10 +16,14 @@ A comparative implementation of a Multilayer Perceptron (MLP) for handwritten di
 
 ```
 .
-├── data/                   
-├── scratch/                
-├── pytorch/                
-├── requirements.txt
+├── data/
+│   └── mnist.zip
+├── scratch/
+│   ├── L_layered_NN_CSOC_Week_2 Local.ipynb
+│   └── L_layered_NN_CSOC_Week_2_Colab_CPU.ipynb
+├── pytorch/
+│   ├── PyTorch_Implementation_CSOC_Week_2_CPU.ipynb
+│   └── PyTorch_Implementation_CSOC_Week_2_GPU.ipynb
 └── README.md
 ```
 
