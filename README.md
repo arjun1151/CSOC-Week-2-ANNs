@@ -24,6 +24,7 @@ A comparative implementation of a Multilayer Perceptron (MLP) for handwritten di
 ├── pytorch/
 │   ├── PyTorch_Implementation_CSOC_Week_2_CPU.ipynb
 │   └── PyTorch_Implementation_CSOC_Week_2_GPU.ipynb
+├── CSOC_Week_2_Report.pdf
 └── README.md
 ```
 
