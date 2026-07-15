@@ -97,7 +97,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/arjun1151/CSOC-Week-2-ANNs.git
-cd <repository-name>
+cd CSOC-Week-2-ANNs
 ```
 
 
